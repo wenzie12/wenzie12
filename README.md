@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, Nextjs, etc..**
 
-- 👨‍💻 All of my projects are available at [https://wenziequerubin.netlify.app](https://wenziequerubin.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.wenziequerubin.com](https://www.wenziequerubin.com)
 
 - 📫 How to reach me **wenzie12sg@gmail.com**
 
