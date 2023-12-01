@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wenzie12" alt="wenzie12" /></a> </p>
 
-- 🔭 I’m currently working on **GoManila App/ Manila Zoo App**
+- 🔭 I’m currently working on a **CRM App**
 
-- 🌱 I’m currently learning **Typescript, Nextjs, etc..**
+- 🌱 I’m currently learning **Typescript, Nextjs, Mui, etc..**
 
 - 👨‍💻 All of my projects are available at [https://www.wenziequerubin.com](https://www.wenziequerubin.com)
 
